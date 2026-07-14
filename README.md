@@ -1,17 +1,22 @@
-# NIM-App-AD-GroupManagement
+# AD Group Management
 
 # Description
-Group Management for Active Directory
+Provides the user the ability to manage memberships for groups in Active Directory
 
-# Requirements
-- Systems
-    - Microsoft Active Directory named "AD"
+# Prerequisites
+- [Standard Item Library](https://github.com/Tools4ever-NIM/NIM-Framework-ItemLibrary)
+
+# Installation
+- Download app.json source file
+- Within NIM
+- 	Go to Apps
+- 	Click Import
+- 	Select app.json
+-	Create each missing audit query
+- 	Complete Import
+- 	Under Apps, Uncheck "Exportable" if checked
+
     
 # Screenshots
-![image](https://user-images.githubusercontent.com/24281600/233200630-033a915e-e320-43cb-8fab-9d035ee52c8d.png)
-
-
-![image](https://user-images.githubusercontent.com/24281600/233200642-b127744c-0f53-4b31-83e3-31407eeedc98.png)
-
-
-![image](https://user-images.githubusercontent.com/24281600/233200652-2b6aad60-bdd2-4353-8c86-b2034339a265.png)
+<img width="2009" height="1102" alt="image" src="https://github.com/user-attachments/assets/76627ebc-e260-4a19-962e-8f7713c20c00" />
+<img width="2009" height="1102" alt="image" src="https://github.com/user-attachments/assets/23bb1e76-701d-447f-b404-bcf2f06111a9" />
